@@ -33,21 +33,19 @@ Proy 3 - Cerquita de Lorca
 		Información sobre los lugares  - huellas .. 
 
 
-Proy 4 - Proyecto FIJR
+Proy 4 - Proyecto Sala adentro
 ========================================		
-		proyecto de cine, ciudad cultural de GRX
-		fomentar este festival 
+		Celia Cuéllar Romero, David García Soria y Cristina Guerrero Sánchez
+		
+Acercar al público hispanohablante, tanto de España como Latinoamérica todos los festivales de cine que se celebran en España. 
+Descubrir e informar sobre ellos en un espacio reducido. 
+Posibilidad de obtener noticias, fotografías inmersivas en 360º para aportar declaraciones en audio y un 360 de los premiados de cada festival en el que se indique el premio y la categoría, vídeos, reportajes multimedia, video crónica, mapa geolocalización con los espacios. 
 
-		acomodador virtual - bot   (horarios de programación)  recordatorios de peliculas
-		cartelera virtual en ciudad - RA (ver trailer)
-		geolocalización (de las actividades) 
+Sería un laboratorio periodístico para el diario El Mundo. 
 
-		Mostrar las voces… 360º de Rostros en Escenarios … 
-				voz en off 
+Chatbot: asistente especializado a través de preguntas, programado en el que se ofrece información por provincia y por género cinematográfico y país de procedencia. Recordatorios de eventos.
 
-		localización de rodajes en 360º (ver la escena/trailer)
 
-		publico: general… industria…
 
 
 Proy5 - IEsport Life VR 
