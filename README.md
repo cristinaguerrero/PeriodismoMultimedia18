@@ -45,6 +45,7 @@ Sería un laboratorio periodístico para el diario El Mundo.
 
 Chatbot: asistente especializado a través de preguntas, programado en el que se ofrece información por provincia y por género cinematográfico y país de procedencia. Recordatorios de eventos.
 
+Enlace al proyecto: https://celiacuellarromero.wixsite.com/salaadentrolab
 
 
 
